@@ -6,6 +6,6 @@ Mainzer R., Apajee J., Nguyen C., Carlin J.B., and Lee K.J. A comparison of mult
 
 Summary of files:
 
-* cr_SimData: create simulated data sets
-* an_SimData: analyse data using different multiple imputation strategies
-* calc_total_score_sim: calculate the scale score
+* cr_SimData.do: create simulated data sets
+* an_SimData.ado: analyse data using different multiple imputation strategies
+* calc_total_score_sim.ado: calculate the scale score
